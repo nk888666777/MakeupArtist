@@ -1,0 +1,2 @@
+- Chú ý phần class, id phải đặt đúng tên với các file còn lại để không xảy ra lỗi không tải được nội dung trang web.
+- ..
