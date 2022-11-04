@@ -1,0 +1,63 @@
+#footer-text{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+footer{
+    color: black;
+}
+
+#link{
+    color: black !important;
+}
+
+.carousel-item img{
+    height: 85vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.service-hp-img img{
+    height: 30vh;
+    width: 15rem;
+    object-fit: cover;
+    display: block;
+}
+
+.card-body{
+    background-color: #F0BDB1;
+}
+
+.artist-hp-img img{
+    height: 30vh;
+    width: 18rem;
+    object-fit:cover;
+    display: block;
+}
+
+
+
+.text {
+    display: block;
+    color: black;
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    font-size: 79px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+    }
+
+.product-item{
+    border: 1px outset;
+
+}
+
+
+
+
+
