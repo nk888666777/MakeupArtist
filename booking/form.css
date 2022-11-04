@@ -1,0 +1,100 @@
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: rgb(255, 255, 255);
+  text-decoration: none;
+  color: #555;
+}
+
+.fa-ul{
+  display: inline-block;
+  list-style-type: none;
+}
+
+.marquee{
+display: inline-block;
+font-size: large;
+}
+
+.title{
+background-image: url('https://th.bing.com/th/id/R.a319028e0f4277668292c84e51cd3e95?rik=j7%2bQ8oGj74hsIg&riu=http%3a%2f%2fth06.deviantart.net%2ffs71%2fPRE%2fi%2f2011%2f292%2f9%2fa%2ftexture_make_up_3_by_bchamp2-d4dbsfh.jpg&ehk=G%2bsVw%2fl91wO3SgAp3WY1cclsv8PRQwN1FSSq6XULIZ4%3d&risl=&pid=ImgRaw&r=0');
+padding: 5rem;
+width: 100%;
+}
+
+.boxcenter {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+.box1 {
+margin-right: 4%;
+}
+
+.box2,
+.box1 {
+float: left;
+width: 48%;
+}
+
+input {
+background-color: #CCC;
+border-radius: 10px;
+padding: 4px;
+}
+
+
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th {
+background-color: #CCC;
+}
+
+th,
+td {
+border: 1px #999 solid;
+}
+
+.buy-btn{
+opacity: 1;
+transition: 0.3s all;
+font-size: 1rem;
+font-weight: bold;
+outline: none;
+border: none;
+padding: 13px 30px;
+text-transform: uppercase;
+cursor: pointer;
+transition: 0.3s ease;
+background-color: black;
+color: white;
+}
+
+.buy-btn:hover{
+background-color: green;
+color: white;
+}
+
+.btn-info{
+transition: transform .2s;
+}
+.btn-info:hover{
+transform: scale(1.06);
+}
