@@ -1,0 +1,97 @@
+#footer-text{
+    text-decoration: none;
+}
+
+
+a{
+    text-decoration: none !important;
+}
+
+footer{
+    color: black;
+}
+
+#link{
+    color: black !important;
+}
+
+.carousel-item img{
+    height: 85vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.service-hp-img img{
+    height: 30vh;
+    width: 15rem;
+    object-fit: cover;
+    display: block;
+}
+
+.card-body{
+    background-color: #F0BDB1;
+}
+
+.artist-hp-img img{
+    height: 30vh;
+    width: 18rem;
+    object-fit: cover;
+    display: block;
+}
+
+.small-img-group{
+    display:flex;
+    justify-content: space-between;
+    object-fit:cover;
+    height: 30vh;
+}
+
+#mainImg{
+    object-fit: cover;
+    height: 65vh;
+}
+
+.small-img-col{
+    flex-basis: 24%;
+    cursor: pointer;
+    
+}
+
+.small-img{
+    object-fit: cover;
+    height: 15vh;
+    transition: transform 0.5s;
+}
+
+.small-img:hover{
+    transform: translateY(5px);
+}
+
+.buy-btn{
+    opacity: 1;
+    transition: 0.3s all;
+    font-size: 0.8rem;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    padding: 13px 30px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.buy-btn:hover{
+    background-color: black;
+    color: white;
+}
+section{
+    color: black;
+}
+span{
+    font-style: italic;
+}
+
+
+
+
+
