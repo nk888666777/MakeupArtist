@@ -13,6 +13,7 @@ Project title: MakeupArtist
 2. Nguyễn Gia Bảo Student1396926 
 3. Nguyễn Ngọc Tú Student1396953 
 4. Lê Tiến Hình Student1396916
+
 ============================
 
 eProject documentation at https://github.com/nk888666777/MakeupArtist_Documentary
