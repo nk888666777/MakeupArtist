@@ -16,11 +16,11 @@ Project title: MakeupArtist
 
 ============================
 
-eProject documentation at https://github.com/nk888666777/MakeupArtist_Documentary
+eProject documentation at :https://github.com/nk888666777/MakeupArtist_Documentary
 
 ============================
 
-eProject published at (chèn link chạy)
+eProject published at :https://nk888666777.github.io/MakeupArtist/
 
 ============================
 
